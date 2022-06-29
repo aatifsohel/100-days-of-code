@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!-- 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -17,14 +17,17 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+ -->
 
+### Day 1: June 28, Tuesday
 
-### Day 1: June 27, Monday
+**Today's Progress**: I've started learning front end web development through Udemy.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** I've recently started coding, learned how the internet actually works. Then started learning HTML. Covered introduction to HTML, elements, tags (opening and ending), HTML boilerplate, anchor tag and image tag. Self-closing tag and Tag omission concept. Importance of using documentations (mdn, devdocs, w3school).It took about an hour and a half. (I neglected to record my first day's progress; I'm writing this on day 2).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+<!-- **Link(s) to work** -->
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 2: June 29, Wednesday
+
+**Today's Progress**: Intermediate HTML.
+**Thoughts** On day 2, started learning HTML tables, table head, table body, table head element, table foot element, table row, table data, etc. Although I found HTML tables to be confusing, I did practise them. Next introduction to HTML form element. It took about an hour to complete and practise.
