@@ -30,4 +30,11 @@
 ### Day 2: June 29, Wednesday
 
 **Today's Progress**: Intermediate HTML.
+
 **Thoughts** On day 2, started learning HTML tables, table head, table body, table head element, table foot element, table row, table data, etc. Although I found HTML tables to be confusing, I did practise them. Next introduction to HTML form element. It took about an hour to complete and practise.
+
+### Day 3: June 30, Thursday
+
+**Today's Progress**: HTML form element, input, labels
+
+**Thoughts** On day 3, practised HTML form element, input field, and labels. With the help of MDN docs, used different input type attributes. Best practises of using form element and its use cases. HTML form element is a big topic in my opinion, coz it uses myriad types of attribute. Next Semantic HTML.
