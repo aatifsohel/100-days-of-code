@@ -38,3 +38,9 @@
 **Today's Progress**: HTML form element, input, labels
 
 **Thoughts** On day 3, practised HTML form element, input field, and labels. With the help of MDN docs, used different input type attributes. Best practises of using form element and its use cases. HTML form element is a big topic in my opinion, coz it uses myriad types of attribute. Next Semantic HTML.
+
+### Day 4: July 1, Friday
+
+**Today's Progress** HTML Semantics, entity codes, subscript and superscript
+
+**Thoughts** On day 4, HTML semantics are important, I discovered. Making use of useful/meaningful markup. How may entity codes, subscript and superscript be inserted? Visited number of websites for a semantic html analysis. Next CSS.
