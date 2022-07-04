@@ -44,3 +44,9 @@
 **Today's Progress** HTML Semantics, entity codes, subscript and superscript
 
 **Thoughts** On day 4, HTML semantics are important, I discovered. Making use of useful/meaningful markup. How may entity codes, subscript and superscript be inserted? Visited number of websites for a semantic html analysis. Next CSS.
+
+### Day 5: July 4, Monday
+
+**Today's Progress** Intro to CSS
+
+**Thoughts** On day 5, started learning CSS. Syntax of css, inline, internal and external css. 
