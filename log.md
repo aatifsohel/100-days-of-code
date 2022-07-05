@@ -33,20 +33,37 @@
 
 **Thoughts** On day 2, started learning HTML tables, table head, table body, table head element, table foot element, table row, table data, etc. Although I found HTML tables to be confusing, I did practise them. Next introduction to HTML form element. It took about an hour to complete and practise.
 
+
+<!-- ------------------ -->
 ### Day 3: June 30, Thursday
 
 **Today's Progress**: HTML form element, input, labels
 
 **Thoughts** On day 3, practised HTML form element, input field, and labels. With the help of MDN docs, used different input type attributes. Best practises of using form element and its use cases. HTML form element is a big topic in my opinion, coz it uses myriad types of attribute. Next Semantic HTML.
 
+
+<!-- ------------------ -->
 ### Day 4: July 1, Friday
 
 **Today's Progress** HTML Semantics, entity codes, subscript and superscript
 
 **Thoughts** On day 4, HTML semantics are important, I discovered. Making use of useful/meaningful markup. How may entity codes, subscript and superscript be inserted? Visited number of websites for a semantic html analysis. Next CSS.
 
+
+<!-- ------------------ -->
 ### Day 5: July 4, Monday
 
-**Today's Progress** Intro to CSS
+**Today's Progress**: Intro to CSS
 
 **Thoughts** On day 5, started learning CSS. Syntax of css, inline, internal and external css. 
+
+
+<!-- ------------------ -->
+### Day 6: July 5, Tuesday
+
+**Today's Progress**: CSS properties, color, color systems, text properties, different sizes.
+
+**Thoughts** On day 6, started to use CSS properties like color, text, different sizes in CSS, borders and border radius. Font-family property, and how we can import google fonts. Next CSS selectors.
+
+
+<!-- ------------------ -->
