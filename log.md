@@ -67,3 +67,11 @@
 
 
 <!-- ------------------ -->
+### Day 7: July 6, Wednesday
+
+**Today's Progress**: Revise HTML, practise and tips
+
+**Thoughts** On day 7, revised HTML and practised it. Watched some YT tutorials. Explore other HTML elements like list items, ordered list, unordered list etc. Continued with CSS basics i.e. selectors and its importance.
+
+
+<!-- ------------------ -->
