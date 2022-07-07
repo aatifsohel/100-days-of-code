@@ -75,3 +75,11 @@
 
 
 <!-- ------------------ -->
+### Day 8: July 7, Thursday
+
+**Today's Progress**: CSS selectors & types
+
+**Thoughts** On day 8, learned CSS selectors and it types. Classes vs IDs. Pseudo classes. Spent about an hour and a half practising (excluding tutorials watch time). CSS selector is a crucial topic. Although I watched the lectures and practised, I believe the topic is complicated. Tomorrow I'll have to review it so I can grasp it better.
+
+
+<!-- ------------------ -->
