@@ -83,3 +83,8 @@
 
 
 <!-- ------------------ -->
+### Day 9: July 8, Friday
+
+**Today's Progress**: CSS - Hyper link styling, selector conflicts, inheritance, etc.
+
+**Thoughts** On day 9, learned CSS topics about styling hyperlinks, selector conflicts, inheritance, and univarsal selectors. Next CSS Box model.
