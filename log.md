@@ -88,3 +88,14 @@
 **Today's Progress**: CSS - Hyper link styling, selector conflicts, inheritance, etc.
 
 **Thoughts** On day 9, learned CSS topics about styling hyperlinks, selector conflicts, inheritance, and univarsal selectors. Next CSS Box model.
+
+
+<!-- ------------------ -->
+### Day 10: July 14, Thursday
+
+**Today's Progress**: CSS Box model, margin, padding, and border.
+
+**Thoughts** On day 10, learned and practiced css box model, margin and padding uses. When to use margin and padding. Try to stick wih one type of margine either margin top or margin bottom (it is a good practice). White space importance and when not to use it. It took long time to practice it. 
+
+
+<!-- ------------------ -->
