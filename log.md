@@ -99,3 +99,11 @@
 
 
 <!-- ------------------ -->
+### Day 11: July 18, Monday
+
+**Today's Progress**: CSS position, Pseudo elements, display property - Inline, block, inline-block elements, css debugging technique.
+
+**Thoughts** On day 11, learned pseudo elements, before and after. Inline vs block vs inline-block elements (display properties). Watched some YT tuts for better understanding of CSS positions. Absolute position is a bit confusing. But I understand it. Today I took more than four hours to practice. 
+
+
+<!-- ------------------ -->
