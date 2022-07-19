@@ -107,3 +107,11 @@
 
 
 <!-- ------------------ -->
+### Day 12: July 19, Tuesday
+
+**Today's Progress**: CSS box-sizing, floats, clear, flexbox
+
+**Thoughts** on day 12, learned css box-sizing. CSS layouts using float, clear (old websites may be working on this). Started flexbox and practiced it. Made some layouts using both float and flexbox (header, aside, and post page). Tomorrow I will cover css grid.
+
+
+<!-- ------------------ -->
