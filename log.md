@@ -115,3 +115,11 @@
 
 
 <!-- ------------------ -->
+### Day 13: July 20, Wednesday
+
+**Today's Progress**: CSS flexbox, grid
+
+**Thoughts** on day 13, practiced more flexbox. Learned CSS grid. It is an interesting topic, enjoyed a lot.
+
+
+<!-- ------------------ -->
