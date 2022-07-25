@@ -123,3 +123,11 @@
 
 
 <!-- ------------------ -->
+### Day 14: July 25, Monday
+
+**Today's Progress**: Semantic HTML, Design Principles, Responsive Web Design
+
+**Thoughts** on day 14, reviewed html semantics, watched some YT tutorials. Continued the previous freecodecamp responsive web design course. Practiced CSS by making some components (i.e. header, card etc.)
+
+
+<!-- ------------------ -->
