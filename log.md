@@ -1,23 +1,4 @@
 # 100 Days Of Code - Log
-<!-- 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
- -->
 
 ### Day 1: June 28, Tuesday
 
@@ -129,5 +110,20 @@
 
 **Thoughts** on day 14, reviewed html semantics, watched some YT tutorials. Continued the previous freecodecamp responsive web design course. Practiced CSS by making some components (i.e. header, card etc.)
 
+
+<!-- ------------------ -->
+### Day 15: July 26, Tuesday
+
+**Today's Progress**: freecodecamp's applied accessibility, responsive webdesign principles
+
+**Thoughts** on day 15, finished applied accessibility and responsive web design principles module on freecodecamp website. Learned about accessbility and design principles. How visual heirarchy affects! Watched YT tutorials on design principles.
+
+
+<!-- ------------------ -->
+### Day 16: July 27, Wednesday
+
+**Today's Progress**: Responsive web design, CSS flexbox
+
+**Thoughts** on day 16, I revised the RWD principles, and watched YT tutorials. Learned about common breakpoints in media queries. On freecodecamp's website, completed css flexbox module. Did some practice on local. 
 
 <!-- ------------------ -->
