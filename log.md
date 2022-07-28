@@ -126,4 +126,13 @@
 
 **Thoughts** on day 16, I revised the RWD principles, and watched YT tutorials. Learned about common breakpoints in media queries. On freecodecamp's website, completed css flexbox module. Did some practice on local. 
 
+
+<!-- ------------------ -->
+### Day 17, July 28, Thursday
+
+**Today's Progress**: CSS grid on freecodecamp
+
+**Thoughts** on day 17, today, I finished freecodecamp's css grid module. Had a great experiance using css grid in practice. Some grid properties I did not understand. But it will be covered in few practices. 
+
+
 <!-- ------------------ -->
