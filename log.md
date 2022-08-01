@@ -128,11 +128,28 @@
 
 
 <!-- ------------------ -->
-### Day 17, July 28, Thursday
+### Day 17: July 28, Thursday
 
 **Today's Progress**: CSS grid on freecodecamp
 
 **Thoughts** on day 17, today, I finished freecodecamp's css grid module. Had a great experiance using css grid in practice. Some grid properties I did not understand. But it will be covered in few practices. 
+
+
+<!-- ------------------ -->
+### Day 18: July 29, Friday
+
+**Today's Progress**: built Tribute page 
+
+**Thoughts** on day 18, today I built tribute page challenge on freecodecamp. I struggled with it. It took about 3 hours. I google maximum things to build the tribute page. Practical or real life projects helps you to better understand the concepts. (tuturial hell is not good)
+I logged this on day 19, due to network issue in day 18.
+
+
+<!-- ------------------ -->
+### Day 19: Aug 01, Monday
+
+**Today's Progress**: built survey form
+
+**Thoughts** on day 19, I finished survey form challenge on freecodecamp. Again, struggled while making this project, took 4 hours to complete the challenge. 
 
 
 <!-- ------------------ -->
