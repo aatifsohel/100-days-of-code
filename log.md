@@ -153,3 +153,8 @@ I logged this on day 19, due to network issue in day 18.
 
 
 <!-- ------------------ -->
+### Day 20: Aug 02, Tuesday
+
+**Today's Progress**: web design rules
+
+**Thoughts** on day 20, I learned about web design principles. Type faces, colors, and spaces. 
