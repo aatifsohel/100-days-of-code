@@ -158,3 +158,14 @@ I logged this on day 19, due to network issue in day 18.
 **Today's Progress**: web design rules
 
 **Thoughts** on day 20, I learned about web design principles. Type faces, colors, and spaces. 
+
+
+<!-- ------------------ -->
+### Day 21: Aug 03, Wednesday
+
+**Today's Progress**: icons, shadows, images, border, border radius
+
+**Thought** on day 21, I learned about the topics mentioned above. How to work with SVGs and using quality images on website with low size makes it faster. Using only one icon library. Not to over shadow cards and elements on web pages, etc. Did less coding than usual.
+
+
+<!-- ------------------ -->
