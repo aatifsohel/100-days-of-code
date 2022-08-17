@@ -169,3 +169,8 @@ I logged this on day 19, due to network issue in day 18.
 
 
 <!-- ------------------ -->
+### Day 22: Aug 17, Wednesday
+
+**Today's Progress**: HTML & CSS Revision
+
+**Thoughts** on day 22, after 14 days I am continueing my challenge. Due to some reasons, I couldn't code during the mentioned period. I revised the HTML & CSS (the basics). Practiced by making simple component without any help. I'm not good at color combinations.
