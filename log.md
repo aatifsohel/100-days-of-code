@@ -174,3 +174,22 @@ I logged this on day 19, due to network issue in day 18.
 **Today's Progress**: HTML & CSS Revision
 
 **Thoughts** on day 22, after 14 days I am continueing my challenge. Due to some reasons, I couldn't code during the mentioned period. I revised the HTML & CSS (the basics). Practiced by making simple component without any help. I'm not good at color combinations.
+
+
+<!-- ------------------ -->
+### Day 23: Aug 18, Thursday
+
+**Today's Progress**: freecodecamp's product landing page
+
+**Thought's** on day 23, started coding for product landing page. It took more time and effort than I thought. All done without using google's help. My code isn't perfect I am thinking right now. I am bit confused about semantics element i.e. don't know about where should I use the elements (article or figure tag for cards).
+I coded for two hours.
+
+
+<!-- ------------------ -->
+### Day 24: Aug 19, Friday
+
+**Today's Progress**: continued building product landing page
+
+**Thoughts** on day 24, I continued building freecodecamp's product landing page. Build the whole project. I am thinking of making few changes to the code. Let see how it goes. It took two and half hours.
+
+<!-- ------------------ -->
