@@ -192,4 +192,22 @@ I coded for two hours.
 
 **Thoughts** on day 24, I continued building freecodecamp's product landing page. Build the whole project. I am thinking of making few changes to the code. Let see how it goes. It took two and half hours.
 
+
 <!-- ------------------ -->
+### Day 25: Aug 22, Monday
+
+**Today's Progress**: started building technical documentation page
+
+**Thoughts** on day 25, I started building technical documentation page by freecodecamp(.)com. I think this very easy project so far. I did the half part today. Will do the remaining part next day.
+
+
+<!-- ------------------ -->
+### Day 26: Aug 28, Sunday
+
+**Today's Progress**: built technical documentation page - project
+
+**Thoughts** on day 26, today I finished technical documentation page project. It was so easy. The only thing I couldn't complete is the navigation bar for media queries for mobile device because I think it needs javascript. I searched on google nothing found. So, I submitted as it is.
+
+
+<!-- ------------------ -->
+<!-- ### Day 27:  -->
