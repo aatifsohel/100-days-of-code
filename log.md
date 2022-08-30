@@ -210,4 +210,8 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 27:  -->
+### Day 27: Aug 29, Monday
+
+**Today's Progress**: built portfolio page project & earned RWD certificate
+
+**Thoughts** on day 27, today I completed portfolio project on freecodecamp's website. I earned certificate of course completin by freecodecamp org for the Responsive Web Design. Feeling great. I'll practice HTML & CSS by making some websites. I really enjoyed the journey on freecodecamp.
