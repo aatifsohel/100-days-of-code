@@ -215,3 +215,23 @@ I coded for two hours.
 **Today's Progress**: built portfolio page project & earned RWD certificate
 
 **Thoughts** on day 27, today I completed portfolio project on freecodecamp's website. I earned certificate of course completin by freecodecamp org for the Responsive Web Design. Feeling great. I'll practice HTML & CSS by making some websites. I really enjoyed the journey on freecodecamp.
+
+
+<!-- ------------------ -->
+### Day 28: Sep 02, Friday
+
+**Today's Progress**: started frontendmentor challenge - product card component
+
+**Thoughts** on day 28, I completed the desktop version of this challenge very easily. I'm feeling awesome while solving the challenge. The half of this challenge is remaining.
+
+
+<!-- ------------------ -->
+### Day 29: Sep 03, Saturday
+
+**Today's Progress**: completed the product card component
+
+**Thoughts** on day 29, I made the product component, hosted it live. Shared it with frontendmentor community, got amazing feedback (& some suggestions). Because of their feedback, I learned how to use multiple images for different media queries (viewport). I didn't about the < picture > element and how it can help with multiple images. Learn how to add the icon and the text in the button (correcty).
+
+
+<!-- ------------------ -->
+<!-- ### Day 30: Sep 04, Sunday -->
