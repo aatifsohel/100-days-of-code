@@ -234,4 +234,16 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 30: Sep 04, Sunday -->
+### Day 30: Sep 04, Sunday
+
+**Today's Progress**: finished QR code component on frontendmentor
+
+**Thoughts** on day 30, completed the challenge on frontendmentor(.)io and push it to github. Nothing much to say!
+
+
+<!-- ------------------ -->
+### Day 31: Sep 05, Monday
+
+**Today's Progress**: coded and watched some YT tutorials related to coding
+
+**Thoughts** on day 31, today I did code around two hours and made basic website. Learned common container width (i.e. 1200px or 1140px). How to make navigation with semantic HTML. Started a coding challenge from frontendmentor(.)io. I think coding and practically doing things will help me to understand the concepts better and I'll have better grasp how to apply the knowledge in real world work.
