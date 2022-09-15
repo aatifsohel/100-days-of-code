@@ -247,3 +247,67 @@ I coded for two hours.
 **Today's Progress**: coded and watched some YT tutorials related to coding
 
 **Thoughts** on day 31, today I did code around two hours and made basic website. Learned common container width (i.e. 1200px or 1140px). How to make navigation with semantic HTML. Started a coding challenge from frontendmentor(.)io. I think coding and practically doing things will help me to understand the concepts better and I'll have better grasp how to apply the knowledge in real world work.
+
+
+
+<!-- I wrote this in a single day because of heavy raining I could'nt log - no network at the time -->
+
+<!-- ------------------ -->
+### Day 32: Sep 07, Wednesday
+
+**Today's Progress**: Profile card component
+
+**Thoughts** on day 32, made profile card component using css flexbox and grid. Feeling comfortable while coding!
+
+
+<!-- ------------------ -->
+### Day 33: Sep 08, Thursday
+
+**Today's Progress**: started stats preview component by frontendmentor
+
+**Thoughts** on day 33, did half of the challenge today.
+
+
+<!-- ------------------ -->
+### Day 34: Sep 09, Friday
+
+**Today's Progress**: built stats preview component using css flexbox and grid
+
+**Thoughts** on day 34, today I built stats preview component. I am feeling confident while coding.
+
+
+<!-- ------------------ -->
+### Day 35: Sep 10, Saturday
+
+**Today's Progress**: started working on 3 column preview card component 
+
+**Thoughts** on day 35, today I did half part of the challenge.
+
+
+<!-- ------------------ -->
+### Day 36: Sep 11, Sunday
+
+**Today's Progress**: finished previous challenge and started the new one
+
+**Thoughts** on day 36, today I finished 3 column preview card component and started the new challenge by frontendmentor.io (i.e. four card feature section)
+
+
+<!-- ------------------ -->
+### Day 37: Sep 13, Tuesday
+
+**Today's Progress**: finsished four card feature section and started the new challenge.
+
+**Thoughts** on day 37, today I finished the previous challenge and started working on social proof section by frontendmentor.io
+
+
+<!-- ------------------ -->
+### Day 38: Sep 15, Thursday
+
+**Today's Progress**: finished social proof section challenge and started the new challenge
+
+**Thoughts** on day 38, finished the previous challenge and started single price grid component challenge provided by frontendmentor.io, after completing this challenge I will think about moving to Javascript (not confirmed).
+
+<!-- I wrote this in a single day because of heavy raining I could'nt log - no network at the time -->
+
+<!-- ------------------ -->
+<!-- ### Day 39: Sep 16, Friday -->
