@@ -310,4 +310,8 @@ I coded for two hours.
 <!-- I wrote this in a single day because of heavy raining I could'nt log - no network at the time -->
 
 <!-- ------------------ -->
-<!-- ### Day 39: Sep 16, Friday -->
+### Day 39: Sep 27, Tuesday
+
+**Today's Progress**: Finished single price card component challenge on frontendmentor
+
+**Thoughts** on day 39, after a long break, I continued my 100 days of code journey. Today I build single price card component provided by frontendmentor. 
