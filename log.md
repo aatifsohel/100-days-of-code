@@ -315,3 +315,35 @@ I coded for two hours.
 **Today's Progress**: Finished single price card component challenge on frontendmentor
 
 **Thoughts** on day 39, after a long break, I continued my 100 days of code journey. Today I build single price card component provided by frontendmentor. 
+
+
+<!-- ------------------ -->
+### Day 40: Oct 02, Sunday
+
+**Today's Progress**: Started working on practice project
+
+**Thoughts** on day 40, I started working on a project which is picked randomly. Did basic coding and gave structure to the page.
+
+
+<!-- ------------------ -->
+### Day 41: Oct 03, Monday
+
+**Today's Progress**: practice project css styling
+
+**Thoughts** on day 41, I styled the hero section using basic css skill. Used Ionicons and unsplash images for the project.
+
+
+<!-- ------------------ -->
+### Day 42: Oct 04, Tuesday
+
+**Today's Progress**: made testimonial, pricing, cta, and work section
+
+**Thoughts** on day 42, I added different sections on practice project website. Used gradients, and transitions on few elements.
+
+
+<!-- ------------------ -->
+### Day 43: Oct 05, Wednesday
+
+**Today's Progress**: finished practice project using HTML and CSS
+
+**Thoughts** on day 43, I finished the project and added media queries for different sized devices for responsiveness. Next I will start learning advanced css & sass. Watched Kevin Powell YT videos like new css selectors has, container, etc.
