@@ -347,3 +347,14 @@ I coded for two hours.
 **Today's Progress**: finished practice project using HTML and CSS
 
 **Thoughts** on day 43, I finished the project and added media queries for different sized devices for responsiveness. Next I will start learning advanced css & sass. Watched Kevin Powell YT videos like new css selectors has, container, etc.
+
+
+<!-- ------------------ -->
+### Day 44: Oct 25, Tuesday
+
+**Today's Progress**: CSS Preprocessor (SASS), and css animation
+
+**Thoughts** on day 44, before moving to Javascripted I started learning css animation and css preprocessor i.e. SASS. Learned how sass works and how it adds more flexibility when writing the code. Covered variables & how to use them. Nesting function is awesome in sass. Best practice to nest up to 3 levels.
+
+
+<!-- ------------------ -->
