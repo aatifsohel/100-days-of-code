@@ -354,7 +354,15 @@ I coded for two hours.
 
 **Today's Progress**: CSS Preprocessor (SASS), and css animation
 
-**Thoughts** on day 44, before moving to Javascripted I started learning css animation and css preprocessor i.e. SASS. Learned how sass works and how it adds more flexibility when writing the code. Covered variables & how to use them. Nesting function is awesome in sass. Best practice to nest up to 3 levels.
+**Thoughts** on day 44, before moving to Javascript I started learning css animation and css preprocessor i.e. SASS. Learned how sass works and how it adds more flexibility when writing the code. Covered variables & how to use them. Nesting function is awesome in sass. Best practice to nest up to 3 levels.
+
+
+<!-- ------------------ -->
+### Day 45: Oct 26, Wednesday
+
+**Today's Progress**: variables, mixin, include, placeholder and functions in SCSS
+
+**Thoughts** on day 45, I covered different scss topics like variables, mixin, include, placeholder and functions. Used them in practice project. Placeholder is a bit confusing topic. 
 
 
 <!-- ------------------ -->
