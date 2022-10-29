@@ -366,3 +366,22 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
+### Day 46: Oct 28, Friday
+
+**Today's Progress**: revision of previous topics
+
+**Thoughts** on day 46, I revised all the topics like mixin, variables, placeholder, etc. in SASS. 
+
+
+<!-- ------------------ -->
+### Day 47: Oct 29, Saturday
+
+**Today's Progress**: installed SASS locally, implementation of learning in current project, and CSS architecture with SASS
+
+**Thoughts** on day day 47, today I implement all the learnings in my current working project i.e. Natour. Learned CSS architecture and set up the sass folder in the project. Different folders like base, abstract, component, layout, and pages.
+
+
+<!-- ------------------ -->
+<!-- ### Day 48: Oct 30, Sunday
+
+**Today's Progress**:  -->
