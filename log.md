@@ -382,6 +382,40 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 48: Oct 30, Sunday
+### Day 48: Oct 30, Sunday
 
-**Today's Progress**:  -->
+**Today's Progress**: build the header section part-1 for the natours project
+
+
+<!-- ------------------ -->
+### Day 49: Oct 31, Monday
+
+**Today's Progress**: build the header section part-2 for the natours project
+
+
+<!-- ------------------ -->
+### Day 50: Nov 01, Tuesday
+
+**Today's Progress**: started working on about section part-1 for the natours project
+
+
+<!-- ------------------ -->
+### Day 51: Nov 02, Wednesday
+
+**Today's Progress**: build the about section part-2 and part-3 of the natours project
+
+
+<!-- ------------------ -->
+### Day 52: Nov 03, Thursday
+
+**Today's Progress**: build the features section and started working on tours section
+
+
+<!-- ------------------ -->
+### Day 53: Nov 05, Saturday
+
+**Today's Progress**: completed the tours section of the natours project
+
+
+<!-- ------------------ -->
+<!-- ### Day 54: Nov 06, Sunday -->
