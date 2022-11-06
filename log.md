@@ -418,4 +418,12 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 54: Nov 06, Sunday -->
+### Day 54: Nov 06, Sunday
+
+**Today's Progress**: started working on section stories of the natours project
+
+**Thoughts** on day 54, learned few new topics like html video, source, figure, figcaption, and shape-outside. It took one and half hour.
+
+
+<!-- ------------------ -->
+<!-- ### Day 55: Nov 07, Monday -->
