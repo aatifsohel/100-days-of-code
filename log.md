@@ -426,4 +426,9 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 55: Nov 07, Monday -->
+### Day 55: Nov 09, Wednesday
+
+**Today's Progress**: build stories section and started working on booking section for the natours project
+
+
+<!-- ------------------ -->
