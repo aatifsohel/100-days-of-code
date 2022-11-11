@@ -432,3 +432,8 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
+### Day 56: Nov 11, Friday
+
+**Today's Progress**: completed booking section of the natours project
+
+**Thoughts** on day 56, completed booking sectionof the natours project. Learned new topics like :focus, :invalid, :placeholder-shown, and :checked sudo classes. Styled form element, input element, and label. Worked with animations. Took 2 hours.
