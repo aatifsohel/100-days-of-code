@@ -437,3 +437,17 @@ I coded for two hours.
 **Today's Progress**: completed booking section of the natours project
 
 **Thoughts** on day 56, completed booking sectionof the natours project. Learned new topics like :focus, :invalid, :placeholder-shown, and :checked sudo classes. Styled form element, input element, and label. Worked with animations. Took 2 hours.
+
+
+<!-- ------------------ -->
+### Day 57: Nov 15, Tuesday
+
+**Today's Progress**: build footer for the natours project and started working on navigation
+
+
+<!-- ------------------ -->
+### Day 58: Nov 16, Wednesday
+
+**Today's Progress**: build navigation for the natours project & started working on popup option
+
+**Thoughts** on day 58, learned animation topics like cubic-bezier, animation timing, and sibling selectors.
