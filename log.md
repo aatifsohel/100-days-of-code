@@ -451,3 +451,11 @@ I coded for two hours.
 **Today's Progress**: build navigation for the natours project & started working on popup option
 
 **Thoughts** on day 58, learned animation topics like cubic-bezier, animation timing, and sibling selectors.
+
+
+<!-- ------------------ -->
+### Day 59: Nov 17, Thursday
+
+**Today's Progress**: build a popup using pure css for the natours project.
+
+**Thoughts** on day 59, completed natours project using SCSS. Today, I learned some new concepts.
