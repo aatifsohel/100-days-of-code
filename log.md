@@ -459,3 +459,17 @@ I coded for two hours.
 **Today's Progress**: build a popup using pure css for the natours project.
 
 **Thoughts** on day 59, completed natours project using SCSS. Today, I learned some new concepts.
+
+<!-- ------------------ -->
+### Day 60: Nov 20, Sunday
+
+**Today's Progress**: started working on responsiveness of natours project
+
+
+<!-- ------------------ -->
+### Day 61: Nov 22, Tuesday
+
+**Today's Progress**: done with media queries for all type of devices
+
+
+
