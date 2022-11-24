@@ -472,4 +472,9 @@ I coded for two hours.
 **Today's Progress**: done with media queries for all type of devices
 
 
+<!-- ------------------ -->
+### Day 62: Nov 24, Thursday
 
+**Today's Progress**: started working on responsive images for the web
+
+**Thoughts** on day 62, learned new concepts <picture> element, src attribute, srcset attribute, media attribute, sizes attribute, width descripter, and density descripter. Learn the concept of art direction, density switching and resolution switching. How we can use multiple images according to viewport size.
