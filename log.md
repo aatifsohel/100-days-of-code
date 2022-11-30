@@ -477,7 +477,7 @@ I coded for two hours.
 
 **Today's Progress**: started working on responsive images for the web
 
-**Thoughts** on day 62, learned new concepts <picture> element, src attribute, srcset attribute, media attribute, sizes attribute, width descripter, and density descripter. Learn the concept of art direction, density switching and resolution switching. How we can use multiple images according to viewport size.
+**Thoughts** on day 62, learned new concepts picture element, src attribute, srcset attribute, media attribute, sizes attribute, width descripter, and density descripter. Learn the concept of art direction, density switching and resolution switching. How we can use multiple images according to viewport size.
 
   
 <!-- ------------------ -->
@@ -486,3 +486,11 @@ I coded for two hours.
 **Today's Progress**: resolution switching and browser testing using support
   
 **Thoughts** on day 63, learned how resolution switching works. This is topic is tricky I found. Some older browser does not support new features of the css, so we have to use vendor prefixes. To check which browser supports a feature or not, use caniuse(.com) website. Browser testing using @ support, min-resolution, media, etc.
+
+
+<!-- ------------------ -->
+### Day 64: Nov 30, Wednesday
+
+**Today's Progress**: made a build process using npm scripts for the natours project
+
+**Thoughts** on day 64, i struggle to run the npm run autoprefixer and it shows error. But at the end, i took help from stakeoverflow.
