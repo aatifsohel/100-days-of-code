@@ -494,3 +494,22 @@ I coded for two hours.
 **Today's Progress**: made a build process using npm scripts for the natours project
 
 **Thoughts** on day 64, i struggle to run the npm run autoprefixer and it shows error. But at the end, i took help from stakeoverflow.
+
+
+<!-- ------------------ -->
+### Day 65: Dec 01, Thursday
+
+**Today's Progress**: completed natours project and started working on trillo project.
+
+**Thoughts** on day 65, today i finished natours project using SASS. Next setup for the trillo project. Pushed repository on github.
+
+<!-- ------------------ -->
+### Day 66: Dec 02, Friday
+
+**Today's Progress**: revise of basic css flexbox, and setup layout of trillo project.
+
+**Thought** on day 66, today I revised all the basics of CSS. Used css flexbox in the trillo project. Learn CSS custom properties like root and css variables. We can use css new features like css variables. For this we don't need sass variables for storing data. CSS variables can be manipulated using javascript.
+
+
+<!-- ------------------ -->
+<!-- ### Day 67: Dec 03, Saturday -->
