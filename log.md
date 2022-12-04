@@ -512,4 +512,17 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 67: Dec 03, Saturday -->
+### Day 67: Dec 03, Saturday
+
+**Today's Progress**: build header for the trillo project
+
+<!-- ------------------ -->
+### Day 68: Dec 04, Sunday
+
+**Today's Progress**: build navigation for the trillo project
+
+**Thoughts** on day 68, today I build the sidebar navigation for the trillo project using css flexbox. Learned some new properties currentcolor, transform-origin. Used animations for the navigation. 
+
+
+<!-- ------------------ -->
+### Day 69: Dec 05, Monday
