@@ -526,3 +526,11 @@ I coded for two hours.
 
 <!-- ------------------ -->
 ### Day 69: Dec 05, Monday
+
+**Today's Progress**: build description part and hotel overview part of the trillo project
+
+**Thoughts** on day 69, today I learned new concepts like mask-image, mask-size and flex-wrap. How you can divide content into two columns using flex-wrap property.
+
+
+<!-- ------------------ -->
+<!-- ### Day 70: Dec 06, Tuesday -->
