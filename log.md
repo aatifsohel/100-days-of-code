@@ -533,4 +533,8 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 70: Dec 06, Tuesday -->
+### Day 70: Dec 06, Tuesday
+
+**Today's Progress**: build reviews & cta section of the trillo project
+
+**Thoughts** on day 70, build reviews & cta section of the trillo project. HTML entity codes does not work in CSS. You have to use like this "\201C" in the content property.
