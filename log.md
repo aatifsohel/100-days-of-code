@@ -538,3 +538,15 @@ I coded for two hours.
 **Today's Progress**: build reviews & cta section of the trillo project
 
 **Thoughts** on day 70, build reviews & cta section of the trillo project. HTML entity codes does not work in CSS. You have to use like this "\201C" in the content property.
+
+
+<!-- ------------------ -->
+### Day 71: Dec 13, Tuesday
+
+**Today's Progress**: Introduction to Javascript, Javascript fundamentals...
+
+**Thoughts** on day 71, today I started learning javascript language. I learned Need of Javascript, values and variables, variable naming conventions, data types, basic operator and operator precedence.
+
+
+<!-- ------------------ -->
+<!-- ### Day 72: Dec 14, Wednesday -->
