@@ -549,4 +549,8 @@ I coded for two hours.
 
 
 <!-- ------------------ -->
-<!-- ### Day 72: Dec 14, Wednesday -->
+### Day 72: Dec 19, Monday
+
+**Today's Progress**: Javascript fundamentals...
+
+**Thoughts** on day 72, today I covered the javascript fundamental topic truthy & falsy value, types of equality operator, bolean logic and logical operators. 
