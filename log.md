@@ -554,3 +554,12 @@ I coded for two hours.
 **Today's Progress**: Javascript fundamentals...
 
 **Thoughts** on day 72, today I covered the javascript fundamental topic truthy & falsy value, types of equality operator, bolean logic and logical operators. 
+
+
+<!-- ------------------ -->
+### Day 73: Dec 21, Wednesday
+
+**Today's Progress**: Logical operator & switch statement 
+
+**Thoughts** on day 73, today I learned logical operators & switch statement in Javascript. Solved 4 challenges to practice it. Switch statement vs if else.
+
