@@ -563,3 +563,11 @@ I coded for two hours.
 
 **Thoughts** on day 73, today I learned logical operators & switch statement in Javascript. Solved 4 challenges to practice it. Switch statement vs if else.
 
+
+<!-- ------------------ -->
+### Day 74: Dec 22, Thursday
+
+**Today's Progress**: statement vs expression, Conditional (ternary) operator, javascript releases & history
+
+**Thoughts** on day 74, today I learned about expression and statements. Expression vs statement. Expression can be used in string template literals. Ternary operator is suitable for one line expression. And learned history of javascript.
+
