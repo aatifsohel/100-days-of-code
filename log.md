@@ -571,3 +571,11 @@ I coded for two hours.
 
 **Thoughts** on day 74, today I learned about expression and statements. Expression vs statement. Expression can be used in string template literals. Ternary operator is suitable for one line expression. And learned history of javascript.
 
+
+<!-- ------------------ -->
+### Day 75: Dec 23, Friday
+
+**Today's Progress**: javascript 'strict mode', function, function declaration vs expression
+
+**Thoughts** on day 75, today I covered above mentioned topic. How strict mode can help to show you errors in the console and use the lattest release. Javascript functions declarations (parameters, arguments). Declared functions can be used before they are initialized / declared. Function expressions can not be used before declaration. Function Expression is an expression in which a variable is assigned to the function which then called (and you can provide argument if needed).
+Today I coded one & half hour.
