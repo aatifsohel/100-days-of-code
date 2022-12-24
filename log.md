@@ -579,3 +579,11 @@ I coded for two hours.
 
 **Thoughts** on day 75, today I covered above mentioned topic. How strict mode can help to show you errors in the console and use the lattest release. Javascript functions declarations (parameters, arguments). Declared functions can be used before they are initialized / declared. Function expressions can not be used before declaration. Function Expression is an expression in which a variable is assigned to the function which then called (and you can provide argument if needed).
 Today I coded one & half hour.
+
+
+<!-- ------------------ -->
+### Day 76: Dec 24, Saturday
+
+**Today's Progress**: arrow functions, calling function inside the function
+
+**Thoughts** on day 76, today I covered javascript arrow function and calling the function inside the other functions. Solved a challenge on functions. I coded for 2 hrs.
