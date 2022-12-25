@@ -587,3 +587,11 @@ Today I coded one & half hour.
 **Today's Progress**: arrow functions, calling function inside the function
 
 **Thoughts** on day 76, today I covered javascript arrow function and calling the function inside the other functions. Solved a challenge on functions. I coded for 2 hrs.
+
+
+<!-- ------------------ -->
+### Day 77: Dec 25, Sunday
+
+**Today's Progress**: Javascript arrays, array methods, objects
+
+**Thoughts** on day 77, today I covered javascript array, array methods, and objects. Solved a challenge on array. Coded around 2 hrs.
