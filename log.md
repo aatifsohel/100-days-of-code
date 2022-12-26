@@ -595,3 +595,11 @@ Today I coded one & half hour.
 **Today's Progress**: Javascript arrays, array methods, objects
 
 **Thoughts** on day 77, today I covered javascript array, array methods, and objects. Solved a challenge on array. Coded around 2 hrs.
+
+
+<!-- ------------------ -->
+### Day 78: Dec 26, Monday
+
+**Today's Progress**: Javascript object's dot notations & bracket notation, object methods & challenge
+
+**Thoughts** on day 77, today I covered which method to access object property (dot notation or bracket notation) & object methods. Solved a challenge on objects. Coded 1 hr 30 mins.
