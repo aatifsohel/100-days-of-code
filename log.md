@@ -602,4 +602,12 @@ Today I coded one & half hour.
 
 **Today's Progress**: Javascript object's dot notations & bracket notation, object methods & challenge
 
-**Thoughts** on day 77, today I covered which method to access object property (dot notation or bracket notation) & object methods. Solved a challenge on objects. Coded 1 hr 30 mins.
+**Thoughts** on day 77, today I covered different methods to access object property (dot notation or bracket notation) & object methods. Solved a challenge on objects. Coded 1 hr 30 mins.
+
+
+<!-- ------------------ -->
+### Day 79: Dec 27, Tuesday
+
+**Today's Progress**: for loop, while loop and challenge
+
+**Thoughts** on day 77, today I covered for loop, backward and forward loop, looping through arrays, while loop and solved a challenge today. Coded for 2 hrs & 36 mins.
