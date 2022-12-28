@@ -602,7 +602,7 @@ Today I coded one & half hour.
 
 **Today's Progress**: Javascript object's dot notations & bracket notation, object methods & challenge
 
-**Thoughts** on day 77, today I covered different methods to access object property (dot notation or bracket notation) & object methods. Solved a challenge on objects. Coded 1 hr 30 mins.
+**Thoughts** on day 78, today I covered different methods to access object property (dot notation or bracket notation) & object methods. Solved a challenge on objects. Coded 1 hr 30 mins.
 
 
 <!-- ------------------ -->
@@ -610,4 +610,12 @@ Today I coded one & half hour.
 
 **Today's Progress**: for loop, while loop and challenge
 
-**Thoughts** on day 77, today I covered for loop, backward and forward loop, looping through arrays, while loop and solved a challenge today. Coded for 2 hrs & 36 mins.
+**Thoughts** on day 79, today I covered for loop, backward and forward loop, looping through arrays, while loop and solved a challenge today. Coded for 2 hrs & 36 mins.
+
+
+<!-- ------------------ -->
+### Day 80: Dec 28, Wednesday
+
+**Today's Progress**: DOM & Events
+
+**Thoughts** on day 80, I started learning document object model (DOM) and events. Learned how we can manipulate the HTML document using javascript (ex. html attributes, text, classes etc.). DOM is not a part of javascript but part of Web API. APIs like libraries that we can access through javascript code. The keyword "document" is a special type of object that is entry point to the DOM. Coded for 1 hr.
