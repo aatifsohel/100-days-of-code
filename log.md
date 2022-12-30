@@ -619,3 +619,11 @@ Today I coded one & half hour.
 **Today's Progress**: DOM & Events
 
 **Thoughts** on day 80, I started learning document object model (DOM) and events. Learned how we can manipulate the HTML document using javascript (ex. html attributes, text, classes etc.). DOM is not a part of javascript but part of Web API. APIs like libraries that we can access through javascript code. The keyword "document" is a special type of object that is entry point to the DOM. Coded for 1 hr.
+
+
+<!-- ------------------ -->
+### Day 81: Dec 29, Thursday
+
+**Today's Progress**: manipulating css styling using javascript
+
+**Thoughts** on day 81, today I learned how to manipulate css styling using javascript.
