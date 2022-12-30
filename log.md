@@ -627,3 +627,11 @@ Today I coded one & half hour.
 **Today's Progress**: manipulating css styling using javascript
 
 **Thoughts** on day 81, today I learned how to manipulate css styling using javascript.
+
+
+<!-- ------------------ -->
+### Day 82: Dec 30, Friday
+
+**Today's Progress**: completed guess my number project
+
+**Thoughts** on day 82, today I completed guess my number project. Refractored some code. Coded for 1 hour.
