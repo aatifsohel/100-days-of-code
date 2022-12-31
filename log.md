@@ -635,3 +635,11 @@ Today I coded one & half hour.
 **Today's Progress**: completed guess my number project
 
 **Thoughts** on day 82, today I completed guess my number project. Refractored some code. Coded for 1 hour.
+
+
+<!-- ------------------ -->
+### Day 83: Dec 31, Saturday
+
+**Today's Progress**: modal window mini project
+
+**Thoughts** on day 83, today I build modal window using javascript. Learned how key events works and how to select, add and remove classes from page. Coded for 1 hr.
