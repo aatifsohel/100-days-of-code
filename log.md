@@ -643,3 +643,19 @@ Today I coded one & half hour.
 **Today's Progress**: modal window mini project
 
 **Thoughts** on day 83, today I build modal window using javascript. Learned how key events works and how to select, add and remove classes from page. Coded for 1 hr.
+
+
+<!-- ------------------ -->
+### Day 84: Jan 02, Monday
+
+**Today's Progress**: started working on dice roller game(pig-game)
+
+**Thoughts** on day 84, today I started working on pig-game project. Coded for 45 mins
+
+
+<!-- ------------------ -->
+### Day 85: Jan 03, Tuesday
+
+**Today's Progress**: finished pig-game project
+
+**Thoughts** on day 84, today I finished pig-game project. Learned some new coding tips. Coded for 1hr and 30 mins.
