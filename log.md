@@ -658,4 +658,12 @@ Today I coded one & half hour.
 
 **Today's Progress**: finished pig-game project
 
-**Thoughts** on day 84, today I finished pig-game project. Learned some new coding tips. Coded for 1hr and 30 mins.
+**Thoughts** on day 85, today I finished pig-game project. Learned some new coding tips. Coded for 1hr and 30 mins.
+
+
+<!-- ------------------ -->
+### Day 86: Jan 05, Thursday
+
+**Today's Progress**: javascript high level overview & JS engine & runtime
+
+**Thoughts** on day 86, I covered high level overview of javascript and js engine runtime. Learned how javascript works behind the scenes. Understand the meaning of javascript definition. Paradigms and its types. JS Engines's callstack & heap. Compilation vs interpretation vs jit compilation. Javascript in the browser that js engine, web apis and callback queue. Today I studied js for 2 hours.
