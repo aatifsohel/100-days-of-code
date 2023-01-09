@@ -667,3 +667,19 @@ Today I coded one & half hour.
 **Today's Progress**: javascript high level overview & JS engine & runtime
 
 **Thoughts** on day 86, I covered high level overview of javascript and js engine runtime. Learned how javascript works behind the scenes. Understand the meaning of javascript definition. Paradigms and its types. JS Engines's callstack & heap. Compilation vs interpretation vs jit compilation. Javascript in the browser that js engine, web apis and callback queue. Today I studied js for 2 hours.
+
+
+<!-- ------------------ -->
+### Day 87: Jan 06, Friday
+
+**Today's Progress**: execution context and call stack
+
+**Thoughts** on day 87, I covered the above topics. Theory lectures. It took 2 hrs.
+
+
+<!-- ------------------ -->
+### Day 88: Jan 09, Monday
+
+**Today's Progress**: scope and scoping concept in js
+
+**Thoughts** on day 88, I covered the above topics. I did not grasped the concept fully so, I'll watch again the lecture to understand those concepts better. Took me 2 hours.
