@@ -683,3 +683,11 @@ Today I coded one & half hour.
 **Today's Progress**: scope and scoping concept in js
 
 **Thoughts** on day 88, I covered the above topics. I did not grasped the concept fully so, I'll watch again the lecture to understand those concepts better. Took me 2 hours.
+
+
+<!-- ------------------ -->
+### Day 89: Jan 16, Monday
+
+**Today's Progress**: revision of scope & scope chain & practices
+
+**Thoughts** on day 89, I revised scope and scope chain and practiced it. I understood how it works. 
