@@ -691,3 +691,19 @@ Today I coded one & half hour.
 **Today's Progress**: revision of scope & scope chain & practices
 
 **Thoughts** on day 89, I revised scope and scope chain and practiced it. I understood how it works. 
+
+
+<!-- ------------------ -->
+### Day 90: Jan 17, Tuesday
+
+**Today's Progress**: variable environment & this keyword
+
+**Thoughts** on day 90, I covered the variable environment and this keyword. 
+
+
+<!-- ------------------ -->
+### Day 91: Jan 22, Sunday
+
+**Today's Progress**: primitives vs objects (primitives vs reference types)
+
+**Thoughts** on day 91, I learned primitives and reference types in the javascript. Practiced it in vscode. Learned how they works in call stack and heap. I learned about 1 hr and 45 mins. 
