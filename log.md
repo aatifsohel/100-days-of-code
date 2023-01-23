@@ -707,3 +707,11 @@ Today I coded one & half hour.
 **Today's Progress**: primitives vs objects (primitives vs reference types)
 
 **Thoughts** on day 91, I learned primitives and reference types in the javascript. Practiced it in vscode. Learned how they works in call stack and heap. I learned about 1 hr and 45 mins. 
+
+
+<!-- ------------------ -->
+### Day 92: Jan 23, Monday
+
+**Today's Progress**: destructuring arrays & objects in js
+
+**Thoughts** on day 91, I learned how you can destruct the arrays and ojects and how it can save time. Swaping value using destructuring method is quick & easy than using temporary variable. Today I coded for 1 hr & 30 mins.
