@@ -714,4 +714,12 @@ Today I coded one & half hour.
 
 **Today's Progress**: destructuring arrays & objects in js
 
-**Thoughts** on day 91, I learned how you can destruct the arrays and ojects and how it can save time. Swaping value using destructuring method is quick & easy than using temporary variable. Today I coded for 1 hr & 30 mins.
+**Thoughts** on day 92, I learned how you can destruct the arrays and ojects and how it can save time. Swaping value using destructuring method is quick & easy than using temporary variable. Today I coded for 1 hr & 30 mins.
+
+<!-- ------------------ -->
+### Day 93: Jan 26, Thursday
+
+**Today's Progress**: REVISED - destructuring arrays & objects in js
+
+**Thoughts** on day 93, I revised how to destruct the arrays and ojects and its real world use cases. Swaping value using destructuring method is quick & easy than using temporary variable. Today I coded for 1 hr & 27 mins.
+
