@@ -723,3 +723,10 @@ Today I coded one & half hour.
 
 **Thoughts** on day 93, I revised how to destruct the arrays and ojects and its real world use cases. Swaping value using destructuring method is quick & easy than using temporary variable. Today I coded for 1 hr & 27 mins.
 
+
+<!-- ------------------ -->
+### Day 94: Jan 27, Friday
+
+**Today's Progress**: Spread Operator & REST pattern, parameter & arguments
+
+**Thoughts** on day 94, I learned about spread operator & rest pattern, parameters and arguments. How we can expand, maninpulate, create a copy of array or object using it. Today, I coded for 1 hours 4 mins.
