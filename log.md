@@ -730,3 +730,11 @@ Today I coded one & half hour.
 **Today's Progress**: Spread Operator & REST pattern, parameter & arguments
 
 **Thoughts** on day 94, I learned about spread operator & rest pattern, parameters and arguments. How we can expand, maninpulate, create a copy of array or object using it. Today, I coded for 1 hours 4 mins.
+
+
+<!-- ------------------ -->
+### Day 95: Jan 28, Saturday
+
+**Today's Progress**: Logical AND operator, OR operator, Nullish Coalescing Operator, Logical Assignment operator
+
+**Thoughts** on day 95, I learned about logical operators & logical assingment operators. Today, I coded for 1 hr & 22 mins.
