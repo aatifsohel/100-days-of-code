@@ -738,3 +738,11 @@ Today I coded one & half hour.
 **Today's Progress**: Logical AND operator, OR operator, Nullish Coalescing Operator, Logical Assignment operator
 
 **Thoughts** on day 95, I learned about logical operators & logical assingment operators. Today, I coded for 1 hr & 22 mins.
+
+
+<!-- ------------------ -->
+### Day 96: Jan 29, Sunday
+
+**Today's Progress**: destructuring challenge, for-of loop, enhanched object literal ES6 feature, optional chaining OP
+
+**Thoughts** on day 96, I learned about above mentioned topics. Solved a challenge on destructuring objects & arrays. Optional chaining operator & nullish coalescing operator combination to avoid errors. For of loop using `entries()` method on arrays. Today I coded for 2 hours.
