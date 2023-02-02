@@ -746,3 +746,11 @@ Today I coded one & half hour.
 **Today's Progress**: destructuring challenge, for-of loop, enhanched object literal ES6 feature, optional chaining OP
 
 **Thoughts** on day 96, I learned about above mentioned topics. Solved a challenge on destructuring objects & arrays. Optional chaining operator & nullish coalescing operator combination to avoid errors. For of loop using `entries()` method on arrays. Today I coded for 2 hours.
+
+
+<!-- ------------------ -->
+### Day 97: Feb 2, Thursday
+
+**Today's Progress**: set & map in JS
+
+**Thoughts** on day 97, I learned about set and maps in javascript. I coded for 1 hr.
