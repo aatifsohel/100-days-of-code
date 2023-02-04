@@ -754,3 +754,11 @@ Today I coded one & half hour.
 **Today's Progress**: set & map in JS
 
 **Thoughts** on day 97, I learned about set and maps in javascript. I coded for 1 hr.
+
+
+<!-- ------------------ -->
+### Day 98: Feb 4, Saturday
+
+**Today's Progress**: map & map iteration, map vs object vs arrays vs set
+
+**Thoughts** on day 98, I learned about maps iteration & how, when & which to use from map, arrays, set & objects. Solved a coding challenge. Coded for 1 hr and 30 mins.
