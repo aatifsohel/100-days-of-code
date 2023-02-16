@@ -765,9 +765,16 @@ Today I coded one & half hour.
 
 
 <!-- ------------------ -->
-### Day 99: Feb 5, Wednesday
+### Day 99: Feb 15, Wednesday
 
 **Today's Progress**: strings & methods, functions - param, args, callback functions
 
 **Thoughts** on day 99, today I covered the string methods practices, looked into functions like default parameters, arguments value vs reference, used function callback & first class vs higher-order functions. Today, I coded for 1 hrs. Watched lecture 2 hrs.
 
+
+<!-- ------------------ -->
+### Day 100: Feb 16, Thursday
+
+**Today's Progress**: function returning function, call, apply and bind method
+
+**Thoughts** on day 100, today I learned about function returning a function, and different methods like call, apply and bind. Coded for 1 hr.
