@@ -12,3 +12,6 @@ Javascript: Today, I revised yesterday's covered topics and solved a challenge b
 
 ### R2D3 - Mar 01, 2023
 Javascript: Today, I learned different array methods i.e. `.map()`, `.filter()`, and `.reduce()`. I used them in the Bankist App project to display balance and to change data from account. These 3 array methods are important (you must remember and know their use case). I practiced them on small challenges. I coded for 1 hour and 30 minutes and watched lectures for 1 hour.
+
+### R2D4 - Mar 02, 2023
+Javascript: Today, I leart about chaining concept using `.map()`, `.filter()`, and `.reduce()`. I implemented this concept in the Bankist App project. I also learnt that chaining should be avoided for preventing bugs in the app. It is okay for small project but not for the big projects. I solved a small challenge in 45 minutes (which is not great since, I'm learning it took long time). I started learning Figma UI UX designing. In designing, I watched theory lectures around 1 hour. I coded for 2 hours and watched 1 hour lecture.
