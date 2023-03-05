@@ -21,3 +21,6 @@ Today, I solved a challenge which uses chaining different arrar methods `.map()`
 
 ### R2D6 - Mar 04, 2023
 Today, I implemented loan & transfer functionality in the Bankist App project. Learnt new methods like `.findIndex()`, `.some()`, `.every`, `.flat()`, and `.flatMap()`. findIndex() method returns an index which you can use to get values from the array. some() takes a CB function if it satisfied then it returns boolean. I coded for 1 hour and 30 min & watched lectures around 1 hour. In designing, I learnt figma basics and practiced it. Explored dribble, Awwwards, pinterest, and behance web apps for design inspiration.
+
+### R2D7 - Mar 05, 2023
+Today, I learnt few JavaScript array methods which are `.sort()`, `.fill()`, `Array.from()` and `new Array()`. Implemented sorting feature in the Bankist app to sort transaction (ascending or descending). In designing, I learnt figma basic tools & techniques like how constraint works, images & importing, frames, and auto layout etc. Practiced sketching in figJam. I coded for 1 hour and 10 mins & watched 1 hours of lecture.
