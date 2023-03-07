@@ -24,3 +24,6 @@ Today, I implemented loan & transfer functionality in the Bankist App project. L
 
 ### R2D7 - Mar 05, 2023
 Today, I learnt few JavaScript array methods which are `.sort()`, `.fill()`, `Array.from()` and `new Array()`. Implemented sorting feature in the Bankist app to sort transaction (ascending or descending). In designing, I learnt figma basic tools & techniques like how constraint works, images & importing, frames, and auto layout etc. Practiced sketching in figJam. I coded for 1 hour and 10 mins & watched 1 hours of lecture.
+
+### R2D8 - Mar 07, 2023
+Today, I completed a coding challenge on Javascript array methods. To solve this challenge I took 2 hours and took some help from the solution. I did write the code but the written code was too long. The instructor Jonas, solved this challenge in small lines of code. Now, I have to practice on array methods to understand it fully and use it different case scenario. In figma design, I practice basic design using my previous knowledge. Today, I spent on learning & coding around 4 hours.
