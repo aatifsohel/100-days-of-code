@@ -27,3 +27,6 @@ Today, I learnt few JavaScript array methods which are `.sort()`, `.fill()`, `Ar
 
 ### R2D8 - Mar 07, 2023
 Today, I completed a coding challenge on Javascript array methods. To solve this challenge I took 2 hours and took some help from the solution. I did write the code but the written code was too long. The instructor Jonas, solved this challenge in small lines of code. Now, I have to practice on array methods to understand it fully and use it different case scenario. In figma design, I practice basic design using my previous knowledge. Today, I spent on learning & coding around 4 hours.
+
+### R2D9 - Mar 08, 2023
+Today, I practiced javascript arrays from w3resources and programmiz website. Revised all the array methods. Still, I don't understand them fully but I'll practice it to understand it fully. In figma, I designed a landing page using basic knowledge of figma. I spent practicing 2 hours for coding & 3 hours for designing.
