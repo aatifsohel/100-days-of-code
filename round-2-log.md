@@ -30,3 +30,6 @@ Today, I completed a coding challenge on Javascript array methods. To solve this
 
 ### R2D9 - Mar 08, 2023
 Today, I practiced javascript arrays from w3resources and programmiz website. Revised all the array methods. Still, I don't understand them fully but I'll practice it to understand it fully. In figma, I designed a landing page using basic knowledge of figma. I spent practicing 2 hours for coding & 3 hours for designing.
+
+### R2D10 - Mar 10, 2023
+Today, I learnt javascript Number constructor and its method. Base & Binary system. Converting string to numbers using type coersion (+). `.parseInt()`, `.parseFloat()`, `.isNaN()`, `.isFinite()` and `.isInteger()`.
