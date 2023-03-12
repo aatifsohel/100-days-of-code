@@ -36,3 +36,6 @@ Today, I learnt about javascript Number constructor and its method. Base & Binar
 
 ### R2D11 - Mar 11, 2023
 Today I learnt about javascript math and rounding operations. Like `Math.sqrt()`, `Math.max()`, `Math.round()`, `Math.ceil()`, `Math.floor()`, `().toFixed()`, `Math.trunc()` and BigInt primitive.
+
+### R2D12 - Mar 12, 2023
+Today, I learnt about JavaScript dates, operations with dates, internationalization with numbers and dates. Implemented internationalization (Intl) number and date system in the Bankist App(project). Locale and options with `.DateTimeFormate()` & `.NumberFormat()`. Today, I studied JS whole day.
