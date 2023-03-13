@@ -39,3 +39,6 @@ Today I learnt about javascript math and rounding operations. Like `Math.sqrt()`
 
 ### R2D12 - Mar 12, 2023
 Today, I learnt about JavaScript dates, operations with dates, internationalization with numbers and dates. Implemented internationalization (Intl) number and date system in the Bankist App(project). Locale and options with `.DateTimeFormate()` & `.NumberFormat()`. Today, I studied JS whole day.
+
+### R2D13 - Mar 13, 2023
+Today, I learnt about javscript timers - `setTimeout()` and `setInterval()`. Implemented countdown timer functionality in the bankist app. Today, I coded for 2 hours. Started learning about advanced dom in the javascript.
