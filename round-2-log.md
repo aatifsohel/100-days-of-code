@@ -41,4 +41,7 @@ Today I learnt about javascript math and rounding operations. Like `Math.sqrt()`
 Today, I learnt about JavaScript dates, operations with dates, internationalization with numbers and dates. Implemented internationalization (Intl) number and date system in the Bankist App(project). Locale and options with `.DateTimeFormate()` & `.NumberFormat()`. Today, I studied JS whole day.
 
 ### R2D13 - Mar 13, 2023
-Today, I learnt about javscript timers - `setTimeout()` and `setInterval()`. Implemented countdown timer functionality in the bankist app. Today, I coded for 2 hours. Started learning about advanced dom in the javascript.
+Today, I learnt about javascript timers - `setTimeout()` and `setInterval()`. Implemented countdown timer functionality in the bankist app. Today, I coded for 2 hours. Started learning about advanced dom in the javascript.
+
+### R2D14 - Mar 14, 2023
+Today, I learnt about javascript & advanced DOM. How DOM API works behind the scenes? Node and DOM tree and its methods and properties. Creating, deleting,and modifying HTML elements. Adding, removing and modifying styles, attributes, etc. I coded for 1 hour.
