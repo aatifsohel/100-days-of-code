@@ -45,3 +45,6 @@ Today, I learnt about javascript timers - `setTimeout()` and `setInterval()`. Im
 
 ### R2D14 - Mar 14, 2023
 Today, I learnt about javascript & advanced DOM. How DOM API works behind the scenes? Node and DOM tree and its methods and properties. Creating, deleting,and modifying HTML elements. Adding, removing and modifying styles, attributes, etc. I coded for 1 hour.
+
+### R2D15 - Mar 15, 2023
+Today, I learnt how to use different methods to manipulate classes, styles and attributes using javascript. Implemented smooth scrolling in the bankist website using `.scrollIntoView()`. Learnt old way of doing smooth scrolling using coordinates by `.getBoundingClientRect()`. How to get viewport size using `.clientHeight` and `.clientWidth`. Today, I coded for 1 hour. Learnt userflows in figma design.
