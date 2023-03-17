@@ -48,3 +48,6 @@ Today, I learnt about javascript & advanced DOM. How DOM API works behind the sc
 
 ### R2D15 - Mar 15, 2023
 Today, I learnt how to use different methods to manipulate classes, styles and attributes using javascript. Implemented smooth scrolling in the bankist website using `.scrollIntoView()`. Learnt old way of doing smooth scrolling using coordinates by `.getBoundingClientRect()`. How to get viewport size using `.clientHeight` and `.clientWidth`. Today, I coded for 1 hour. Learnt userflows in figma design.
+
+### R2D16 - Mar 17, 2023
+Today, I reviewed my previous learning like how DOM works and behind the scenes. Different methods and properties available to manipulate DOM. Practiced for 2 hours.
