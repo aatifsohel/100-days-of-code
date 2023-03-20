@@ -54,3 +54,6 @@ Today, I reviewed my previous learning like how DOM works and behind the scenes.
 
 ### R2D17 - Mar 18, 2023
 Today, I learnt JavaScript Bubbling & Propagation. Learnt that standard DOM describes 3 phase of event propagation (i.e. capturing, target, and bubbling phase). Used `event.target`, `event.currentTarget`, `event.stopPropagation()` and `event.stopImmediatePropagation()` to see live how it actually works. To catch an event we set `capture` option to `true` default is `false`. Stopping bubbling is not a good practice because it creates hidden errors (may be we don't find out). Used this [resource](https://javascript.info/bubbling-and-capturing) to understand it. Today, I coded for 1 hour. 
+
+### R2D18 - Mar 20, 2023
+Today, I learnt about javascript event delegation. Implemented smooth scrolling feature in Bankist navigation menu. I coded for 1 hour. Learnt designing sitemaps in figma. Variants and components in figma. 
