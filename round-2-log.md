@@ -57,3 +57,6 @@ Today, I learnt JavaScript Bubbling & Propagation. Learnt that standard DOM desc
 
 ### R2D18 - Mar 20, 2023
 Today, I learnt about javascript event delegation. Implemented smooth scrolling feature in Bankist navigation menu. I coded for 1 hour. Learnt designing sitemaps in figma. Variants and components in figma. 
+
+### R2D19 - Mar 21 - 2023
+Today, I learnt about Javascript DOM traversing. Converting HTML collection into an array using spread operator and performing action on each element. Learnt different properties childNodes, parentNodes, previousElementSibling, nextElementSibling, previousSibling, nextSibling, parentElement and closest() method. Coded for 1 hour. I didn't learnt anything in design.
