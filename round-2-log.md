@@ -66,3 +66,6 @@ Today, I learnt about passing arguments into javascript event handlers. Using th
 
 ### R2D21 - Mar 23, 2023
 Today, I learnt about javascript intersection observer API. Using this API, I implemented sticky header in the bankist website and reveal on scroll feature. I coded for 1 hour and 30 min. 
+
+### R2D21 - Apr 04, 2023
+Today, I made a pricing card using HTML and CSS only. Revising advanced DOM section to understand it more accurately. I coded for 3 hours. In design using figma, I made simple wireframe for fictional mobile app. 
