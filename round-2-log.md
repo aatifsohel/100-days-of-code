@@ -69,3 +69,9 @@ Today, I learnt about javascript intersection observer API. Using this API, I im
 
 ### R2D21 - Apr 04, 2023
 Today, I made a pricing card using HTML and CSS only. Revising advanced DOM section to understand it more accurately. I coded for 3 hours. In design using figma, I made simple wireframe for fictional mobile app. 
+
+### R2D22 - Apr 05, 2023
+Today, I revised the basics of HTML & CSS. Solved a frontend mentor challenge of responsive result summary component (made it using HTML & CSS). To solve this easy challenge I took 2 hours (haha). 
+
+### R2D23 - Apr 06, 2023
+Today, I revised javascript event delegation and DOM traversing. Did only theory lecture & reviewed previously coded script file.
