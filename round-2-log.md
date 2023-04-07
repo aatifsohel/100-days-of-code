@@ -75,3 +75,6 @@ Today, I revised the basics of HTML & CSS. Solved a frontend mentor challenge of
 
 ### R2D23 - Apr 06, 2023
 Today, I revised javascript event delegation and DOM traversing. Did only theory lecture & reviewed previously coded script file.
+
+### R2D24 - Apr 07, 2023
+Today, I revised how to pass arguments to the javascript event handlers using bind method & this keyword.
