@@ -78,3 +78,6 @@ Today, I revised javascript event delegation and DOM traversing. Did only theory
 
 ### R2D24 - Apr 07, 2023
 Today, I revised how to pass arguments to the javascript event handlers using bind method & this keyword.
+
+### R2D25 - Apr 09, 2023
+Today I revised how intersection observer API works and how you can use it for lazy loading images, sticky navbar etc. Ony theory lecture done & reviewed previous code.
