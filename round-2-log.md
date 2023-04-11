@@ -81,3 +81,6 @@ Today, I revised how to pass arguments to the javascript event handlers using bi
 
 ### R2D25 - Apr 09, 2023
 Today I revised how intersection observer API works and how you can use it for lazy loading images, sticky navbar etc. Ony theory lecture done & reviewed previous code.
+
+### R2D26 - Apr 11, 2023
+Today I started learning about object oriented programming in javascript. Classical OOP vs OOP in JS: Prototypes. Learnt how you can implement protoypal inheritance in javascript i.e. constructor, ES6 classes, and `object.create()`. Only theory lectures done no practice. In figma design, I created some sketches. 
