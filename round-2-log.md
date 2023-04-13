@@ -87,3 +87,6 @@ Today I started learning about object oriented programming in javascript. Classi
 
 ### R2D27 - Apr 12, 2023
 Today I learnt about constructor function and new operator and prototypes in javascript. Prototype inheritance and prototype chain. This topic is very confusing and I didn't get it fully. I coded for 1 hour and watched theory lecture around 2 hours. In figma design, I did basic design of layout and websites.
+
+### R2D28 - Apr 13, 2023
+Today, I learnt about javascript OOP prototypal inheritance on built-in objects and ES6 classes. Solved a mini coding challenge (without error). I coded for 1 hour and watched around 2 hour of lectures.
