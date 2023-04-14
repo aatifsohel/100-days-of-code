@@ -90,3 +90,6 @@ Today I learnt about constructor function and new operator and prototypes in jav
 
 ### R2D28 - Apr 13, 2023
 Today, I learnt about javascript OOP prototypal inheritance on built-in objects and ES6 classes. Solved a mini coding challenge (without error). I coded for 1 hour and watched around 2 hour of lectures.
+
+### R2D29 - Apr 14, 2023
+Today, I learnt about javascript getters, setters, `Object.create()` and static methods. Solved a mini coding challenge based on those topics. I coded for 1 hour and 2 mins.
