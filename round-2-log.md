@@ -93,3 +93,6 @@ Today, I learnt about javascript OOP prototypal inheritance on built-in objects 
 
 ### R2D29 - Apr 14, 2023
 Today, I learnt about javascript getters, setters, `Object.create()` and static methods. Solved a mini coding challenge based on those topics. I coded for 1 hour and 2 mins.
+
+### R2D30 - Apr 16, 2023
+Today, I revised the javascript OOP topics: What is OOP? Prototypes, Prototypal Inheritance, programming paradigms, es6 vs constructor function vs object .create(), setters and getters etc. Only theory lectures covered and reviewed previous code.
