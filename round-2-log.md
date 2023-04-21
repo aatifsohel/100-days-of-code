@@ -99,3 +99,9 @@ Today, I revised the javascript OOP topics: What is OOP? Prototypes, Prototypal 
 
 ### R2D31 - Apr 17, 2023
 Today, I learnt about javacript OOP concept inheritance between classes and constructor functions. Code for 1 hour.
+
+### R2D32 - Apr 18, 2023
+Today, I solved a frontend mentor challenge call huddle page. I made this using HTML & CSS.
+
+### R2D33 - Apr 21, 2023
+Today, I reviewed JavaScript OOP fundamentals. I had a lot of trouble comprehending these concepts. Prototypes, inheritance, etc. learned about each of those topics. Browse the internet for articles (I really enjoy the javascript knowledge website). I coded for two hours today and sat through four hours of lectures in repeat mode.
