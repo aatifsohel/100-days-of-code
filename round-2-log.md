@@ -105,3 +105,6 @@ Today, I solved a frontend mentor challenge call huddle page. I made this using 
 
 ### R2D33 - Apr 21, 2023
 Today, I reviewed JavaScript OOP fundamentals. I had a lot of trouble comprehending these concepts. Prototypes, inheritance, etc. learned about each of those topics. Browse the internet for articles (I really enjoy the javascript knowledge website). I coded for two hours today and sat through four hours of lectures in repeat mode.
+
+### R2D34 - Apr 23, 2023
+Today, I learned about javascript oop topic: encapsulation. Protecting methods and properties using underscore. Private class fields & methods. Solved a coding challenge. In design, I created a simple sign up form & a modal. It was the challenge from dailyui website. I coded for 1 hour and 15 minutes and worked in figma around 1 hour.
