@@ -108,3 +108,6 @@ Today, I reviewed JavaScript OOP fundamentals. I had a lot of trouble comprehend
 
 ### R2D34 - Apr 23, 2023
 Today, I learned about javascript oop topic: encapsulation. Protecting methods and properties using underscore. Private class fields & methods. Solved a coding challenge. In design, I created a simple sign up form & a modal. It was the challenge from dailyui website. I coded for 1 hour and 15 minutes and worked in figma around 1 hour.
+
+### R2D35 - Apr 26, 2023
+Today, I revised my javascript learning (basics). Solving mini challenges. Started a frontendmentor challenge which is testimonial grid section (using html & css - grid). In design, I made simple landing page for a fictional academy. I don't know how & I made that layout (haha). I did skip some sections from that layout but I added menu items. Today, I coded for 2 hours & designed for 2 hours.
