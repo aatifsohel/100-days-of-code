@@ -111,3 +111,6 @@ Today, I learned about javascript oop topic: encapsulation. Protecting methods a
 
 ### R2D35 - Apr 26, 2023
 Today, I revised my javascript learning (basics). Solving mini challenges. Started a frontendmentor challenge which is testimonial grid section (using html & css - grid). In design, I made simple landing page for a fictional academy. I don't know how & I made that layout (haha). I did skip some sections from that layout but I added menu items. Today, I coded for 2 hours & designed for 2 hours.
+
+### R2D36 - Apr 28, 2023
+Today, I build testimonial grid section section using HTML-CSS (sass scss). I took 4 hours and 45 minutes to build it. But I enjoyed building it. I coded for 1 hour 25 minutes.
