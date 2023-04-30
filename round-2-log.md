@@ -114,3 +114,6 @@ Today, I revised my javascript learning (basics). Solving mini challenges. Start
 
 ### R2D36 - Apr 28, 2023
 Today, I build testimonial grid section section using HTML-CSS (sass scss). I took 4 hours and 45 minutes to build it. But I enjoyed building it. I coded for 1 hour 25 minutes.
+
+### R2D37 - Apr 30, 2023
+Today, I started working on Mapty project. I learnt how to use geolocation API. Getting coordinates using geolocation. Displaying a map using leaflet.
