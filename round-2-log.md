@@ -117,3 +117,6 @@ Today, I build testimonial grid section section using HTML-CSS (sass scss). I to
 
 ### R2D37 - Apr 30, 2023
 Today, I started working on Mapty project. I learnt how to use geolocation API. Getting coordinates using geolocation. Displaying a map using leaflet.
+
+### R2D38 - May 01, 2023
+Today, I implemented toggle functionality for the input form in the javascript Mapty App. Learned importance of project architecture. Refractored for project architecture. I coded for 1 hour.
