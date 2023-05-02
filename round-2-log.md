@@ -120,3 +120,6 @@ Today, I started working on Mapty project. I learnt how to use geolocation API. 
 
 ### R2D38 - May 01, 2023
 Today, I implemented toggle functionality for the input form in the javascript Mapty App. Learned importance of project architecture. Refractored for project architecture. I coded for 1 hour.
+
+### R2D39 - May 02, 2023 
+Today, I continued working on Mapty app while learning javascript. I added functionality of adding new workouts in the project. Learned various techniques to work with big projects (using fields, helper functions etc.). Today I coded for 2 hours. 
