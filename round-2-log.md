@@ -123,3 +123,9 @@ Today, I implemented toggle functionality for the input form in the javascript M
 
 ### R2D39 - May 02, 2023 
 Today, I continued working on Mapty app while learning javascript. I added functionality of adding new workouts in the project. Learned various techniques to work with big projects (using fields, helper functions etc.). Today I coded for 2 hours. 
+
+### R2D40 - May 03, 2023 
+Today, I continued working on Mapty app while learning javascript. I started debugging the code bcoz program was not working as expected. Today I coded for an 1 hour. 
+
+### R2D41 - May 04, 2023 
+Today, again I'm debugging javascript code. I'm very frustated now. I spent 2 hours and 37 min debugging the code. Couldn't find solution yet.
