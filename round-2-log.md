@@ -129,3 +129,6 @@ Today, I continued working on Mapty app while learning javascript. I started deb
 
 ### R2D41 - May 04, 2023 
 Today, again I'm debugging javascript code. I'm very frustated now. I spent 2 hours and 37 min debugging the code. Couldn't find solution yet.
+
+### R2D42 - May 05, 2023 
+Today, I completed javascript advanced object oriented programming and built mapty app using geolocation API and leaflet. I implemented local storage API in that project. I coded for an hour today. In UI UX design learning, I learnt about typography and grid-spacing in figma. Different types of typeface etc. 
