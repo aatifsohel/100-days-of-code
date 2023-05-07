@@ -132,3 +132,6 @@ Today, again I'm debugging javascript code. I'm very frustated now. I spent 2 ho
 
 ### R2D42 - May 05, 2023 
 Today, I completed javascript advanced object oriented programming and built mapty app using geolocation API and leaflet. I implemented local storage API in that project. I coded for an hour today. In UI UX design learning, I learnt about typography and grid-spacing in figma. Different types of typeface etc. 
+
+### R2D43 - May 07, 2023 
+Today, I learned asynchronous javascript. Asynchronous vs synchronous, AJAX & APIs. Learnt how to use AJAX using `XMLHttpRequest()` which is old way of doing. Today, I coded for an hour and 30 minutes. In UI UX design, I learnt about colors & templates and typography.
