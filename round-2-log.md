@@ -135,3 +135,6 @@ Today, I completed javascript advanced object oriented programming and built map
 
 ### R2D43 - May 07, 2023 
 Today, I learned asynchronous javascript. Asynchronous vs synchronous, AJAX & APIs. Learnt how to use AJAX using `XMLHttpRequest()` which is old way of doing. Today, I coded for an hour and 30 minutes. In UI UX design, I learnt about colors & templates and typography.
+
+### R2D44 - May 08, 2023
+Today, I learned about asynchronous javascript topics: call back hell, promise and fetch API, consuming promises, chaining promises and handling rejected promises. I coded around 2 hours.
