@@ -138,3 +138,6 @@ Today, I learned asynchronous javascript. Asynchronous vs synchronous, AJAX & AP
 
 ### R2D44 - May 08, 2023
 Today, I learned about asynchronous javascript topics: call back hell, promise and fetch API, consuming promises, chaining promises and handling rejected promises. I coded around 2 hours.
+
+### R2D45 - May 13, 2023
+Today, I learned about how to handle javascript rejected promises and throwing errors manually. Throwing errors manually is the only way of displaying errors. That's why it is necessary to handle rejected promises. Learned how to use `.then()`, `.catch()` and `.finally()` method. Today, I coded for an 1 hour and 30 minute.
