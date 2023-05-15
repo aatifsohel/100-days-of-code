@@ -141,3 +141,9 @@ Today, I learned about asynchronous javascript topics: call back hell, promise a
 
 ### R2D45 - May 13, 2023
 Today, I learned about how to handle javascript rejected promises and throwing errors manually. Throwing errors manually is the only way of displaying errors. That's why it is necessary to handle rejected promises. Learned how to use `.then()`, `.catch()` and `.finally()` method. Today, I coded for an 1 hour and 30 minute.
+
+### R2D46 - May 14, 2023
+Today I solved a coding challenge on javascript promises. I took more time than I thought. I found it hard to grasp what's going on in promises (like catching error, chaining etc.). Learnt about how javascript promises work behind the scenes and revisted javascript in the runtime. Today, I coded for an hour and 30 minutes.
+
+### R2D47 - May 15, 2023
+Today, I revised how javascript promises work behind the scences & revisted javascript in the runtime, learned about event loop, microtasks queues & callback queues, how to build promises and promisifying. I coded for an hour.
