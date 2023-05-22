@@ -147,3 +147,6 @@ Today I solved a coding challenge on javascript promises. I took more time than 
 
 ### R2D47 - May 15, 2023
 Today, I revised how javascript promises work behind the scences & revisted javascript in the runtime, learned about event loop, microtasks queues & callback queues, how to build promises and promisifying. I coded for an hour.
+
+### R2D48 - May 22, 2023
+Today, I solved a coding challenge to test my knowledge of promisifiying. I learned about consuming promising promises with async await and error handling with try & catch. Today, I coded for an hour.
