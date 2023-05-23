@@ -150,3 +150,6 @@ Today, I revised how javascript promises work behind the scences & revisted java
 
 ### R2D48 - May 22, 2023
 Today, I solved a coding challenge to test my knowledge of promisifiying. I learned about consuming promising promises with async await and error handling with try & catch. Today, I coded for an hour.
+
+### R2D49 - May 23, 2023
+Today, I learned about returning values from async function and running javascript promises in parallel. Today, I coded for an hour.
