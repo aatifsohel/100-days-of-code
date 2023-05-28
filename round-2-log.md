@@ -153,3 +153,9 @@ Today, I solved a coding challenge to test my knowledge of promisifiying. I lear
 
 ### R2D49 - May 23, 2023
 Today, I learned about returning values from async function and running javascript promises in parallel. Today, I coded for an hour.
+
+### R2D50 - May 26, 2023
+Today, I finished javascript asynchronous section from jonas course. I solved a coding challenge.
+
+### R2D51 - May 28, 2023
+Today, I revised javascript topic callbacks & promises.
