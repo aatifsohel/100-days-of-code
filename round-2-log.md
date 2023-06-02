@@ -159,3 +159,9 @@ Today, I finished javascript asynchronous section from jonas course. I solved a 
 
 ### R2D51 - May 28, 2023
 Today, I revised javascript topic callbacks & promises.
+
+### R2D52 - June 01, 2023
+Today, I revised javascript in the browser like global memory, execution context, callstack. 
+
+### R2D53 - June 02, 2023
+Today, I learned about modern javascript development (overview) and modules in javascript. Javascript bundlers, transpiling or polyfilling and importing third party modules or packages. I only study theory lectures.
