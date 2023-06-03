@@ -165,3 +165,6 @@ Today, I revised javascript in the browser like global memory, execution context
 
 ### R2D53 - June 02, 2023
 Today, I learned about modern javascript development (overview) and modules in javascript. Javascript bundlers, transpiling or polyfilling and importing third party modules or packages. I only study theory lectures.
+
+### R2D54 - June 03, 2023
+Today, I learned importing and exporting modules in javascript. To work with modules you need to add type attribute in the HTML file in the script tag. Named export and default exports. I studied about an hour.
