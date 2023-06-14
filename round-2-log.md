@@ -168,3 +168,6 @@ Today, I learned about modern javascript development (overview) and modules in j
 
 ### R2D54 - June 03, 2023
 Today, I learned importing and exporting modules in javascript. To work with modules you need to add type attribute in the HTML file in the script tag. Named export and default exports. I studied about an hour.
+
+### R2D55 - June 14, 2023
+Today, I learned about javascript modules: intro to NPM, bundling with parcel & scripts and configuring babel & polyfilling. Today, I coded for 1 hour and 20 minutes.
