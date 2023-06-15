@@ -171,3 +171,6 @@ Today, I learned importing and exporting modules in javascript. To work with mod
 
 ### R2D55 - June 14, 2023
 Today, I learned about javascript modules: intro to NPM, bundling with parcel & scripts and configuring babel & polyfilling. Today, I coded for 1 hour and 20 minutes.
+
+### R2D56 - June 15, 2023
+Today, I learned about functional programming. I fixed some bad code using functional programming (high level). Finished Javascript Modules, tooling and development section. I coded for around 2 hours.
