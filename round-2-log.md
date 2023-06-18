@@ -174,3 +174,9 @@ Today, I learned about javascript modules: intro to NPM, bundling with parcel & 
 
 ### R2D56 - June 15, 2023
 Today, I learned about functional programming. I fixed some bad code using functional programming (high level). Finished Javascript Modules, tooling and development section. I coded for around 2 hours.
+
+### R2D57 - June 17, 2023
+Today, I started working on forkify app project (a big project) using javascript. Which is a fictional food ordering app. Project planning and API. Implemented loading recipe from API, rendering recipe and listening load events and hashchange events. This project is real world project in which I am learning new techniques and best practices. Project will use MVC architecture. I coded for an hour and watched theory lectures for 2 hours.
+
+### R2D58 - June 18, 2023
+Today, I continued working on forkify app while learning & using my JavaScript knowledge. I learned about Model View Controller (MVC) architecture and how it can be used for managing realworld projects. Refractored the current work for MVC. Helper & configure files to manage project. Publisher-subscriber pattern event handling in MVC. Added error & success message in the project. I coded for around 2 hour and 35 minutes and watched 2 hours of lecture.
