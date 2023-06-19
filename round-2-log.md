@@ -180,3 +180,6 @@ Today, I started working on forkify app project (a big project) using javascript
 
 ### R2D58 - June 18, 2023
 Today, I continued working on forkify app while learning & using my JavaScript knowledge. I learned about Model View Controller (MVC) architecture and how it can be used for managing realworld projects. Refractored the current work for MVC. Helper & configure files to manage project. Publisher-subscriber pattern event handling in MVC. Added error & success message in the project. I coded for around 2 hour and 35 minutes and watched 2 hours of lecture.
+
+### R2D59 - June 19, 2023
+Today, I implemented search results feature in the forkify app project. I coded for an hour and 45 mins.
