@@ -183,3 +183,6 @@ Today, I continued working on forkify app while learning & using my JavaScript k
 
 ### R2D59 - June 19, 2023
 Today, I implemented search results feature in the forkify app project. I coded for an hour and 45 mins.
+
+### R2D60 - June 20, 2023
+Today, I implemented search results pagination feature in the forkify app. I coded for 2 hours.
