@@ -186,3 +186,9 @@ Today, I implemented search results feature in the forkify app project. I coded 
 
 ### R2D60 - June 20, 2023
 Today, I implemented search results pagination feature in the forkify app. I coded for 2 hours.
+
+### R2D61 - June 21, 2023
+Today, I implemented a feature for updating the recipe and made a algorithm for it. I coded for 2 hours.
+
+### R2D62 - June 22, 2023
+Today, I implemented bookmark feature in the forkify app. Adding and removing bookmark. Bookmark section is not coded yet. I coded for 2 hours.
