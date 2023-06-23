@@ -192,3 +192,6 @@ Today, I implemented a feature for updating the recipe and made a algorithm for 
 
 ### R2D62 - June 22, 2023
 Today, I implemented bookmark feature in the forkify app. Adding and removing bookmark. Bookmark section is not coded yet. I coded for 2 hours.
+
+### R2D63 - June 23, 2023
+Today, I implemented bookmark feature and preview in the bookmark panel and saving bookmarks in the local storage. I coded for 1 hour and 10 mins.
