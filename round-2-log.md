@@ -195,3 +195,9 @@ Today, I implemented bookmark feature in the forkify app. Adding and removing bo
 
 ### R2D63 - June 23, 2023
 Today, I implemented bookmark feature and preview in the bookmark panel and saving bookmarks in the local storage. I coded for 1 hour and 10 mins.
+
+### R2D64 - June 24, 2023
+Today, I implemented a feature to add a new recipe. If user add a recipe they can see their user generated symbol in recipe view. Today, I coded for an hour.
+
+### R2D65 - June 25, 2023
+Today, I finished the forkify app project and fixed some minor issue and cleaned up the code. I deployed the project on the netlify and connected it with my github repo. Today, I coded for 2 hour and 20 minutes.
