@@ -201,3 +201,11 @@ Today, I implemented a feature to add a new recipe. If user add a recipe they ca
 
 ### R2D65 - June 25, 2023
 Today, I finished the forkify app project and fixed some minor issue and cleaned up the code. I deployed the project on the netlify and connected it with my github repo. Today, I coded for 2 hour and 20 minutes.
+
+### R2D66 - June 26, 2023
+Today, started solving challenges from leetcode and frontend mentor io to test and improve my JS learning.
+
+### R2D67 - June 27, 2023
+Today, I made simple javascript project image slider. I coded for around 1 hour and 20 min.
+
+### R2D68 - June 28, 2023
