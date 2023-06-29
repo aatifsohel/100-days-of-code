@@ -209,3 +209,7 @@ Today, started solving challenges from leetcode and frontend mentor io to test a
 Today, I made simple javascript project image slider. I coded for around 1 hour and 20 min.
 
 ### R2D68 - June 28, 2023
+Today, I made simple javascript project. Revising all the basics & trying to make things.
+
+### R2D69 - June 29, 2023
+Today, I made simple quote generator using JavaScript. Use the qoutable API [[link](https://github.com/lukePeavey/quotable)]. Used basic DOM manipulation and free loading spinner from the internet. I'm feeling confident while making & trying these small things. Today, I coded for 3 hours.
