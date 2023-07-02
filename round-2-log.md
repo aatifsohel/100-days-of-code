@@ -213,3 +213,12 @@ Today, I made simple javascript project. Revising all the basics & trying to mak
 
 ### R2D69 - June 29, 2023
 Today, I made simple quote generator using JavaScript. Use the qoutable API [[link](https://github.com/lukePeavey/quotable)]. Used basic DOM manipulation and free loading spinner from the internet. I'm feeling confident while making & trying these small things. Today, I coded for 3 hours.
+
+### R2D70 - June 30, 2023
+Today, I solved leetcode problem using javascript. It took more than 30 mins.
+
+### R2D71 - July 01, 2023
+Today, I practice javascript using jschallenger.com Read articles related to modules & asynchronous javascript.
+
+### R2D72 - July 02, 2023
+Today, I enrolled in JavaScript Data Structure and Algorithms at freecodecamp. Coded simple component. 
