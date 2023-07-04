@@ -222,3 +222,9 @@ Today, I practice javascript using jschallenger.com Read articles related to mod
 
 ### R2D72 - July 02, 2023
 Today, I enrolled in JavaScript Data Structure and Algorithms at freecodecamp. Coded simple component. 
+
+### R2D73 - July 03, 2023
+Today, I cover JavaScript course from FCC some topics. I did solve problems on JSChallenger to practice JavaScript. Today, I coded for 1 hour.
+
+### R2D74 - July 04, 2023
+Today, I did JS topics on FCC and solved coding challenges on JSChallenger. Read articles on Higher order functions, callbacks and DRY principle. I coded for 1 hour.
