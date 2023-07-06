@@ -228,3 +228,9 @@ Today, I cover JavaScript course from FCC some topics. I did solve problems on J
 
 ### R2D74 - July 04, 2023
 Today, I did JS topics on FCC and solved coding challenges on JSChallenger. Read articles on Higher order functions, callbacks and DRY principle. I coded for 1 hour.
+
+### R2D75 - July 05, 2023
+Today, I watch CSS videos on YT. Learn how to implement dark mode switcher using JavaScript DOM manipulation. I coded for 30 minutes.
+
+### R2D76 - July 06, 2023
+Today, I revised basic javascript and watched YT videos for understanding the concepts. Started a challenge from CodeWell.cc called Hosterr. I coded for an hour and 30 minutes.
