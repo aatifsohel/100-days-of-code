@@ -234,3 +234,9 @@ Today, I watch CSS videos on YT. Learn how to implement dark mode switcher using
 
 ### R2D76 - July 06, 2023
 Today, I revised basic javascript and watched YT videos for understanding the concepts. Started a challenge from CodeWell.cc called Hosterr. I coded for an hour and 30 minutes.
+
+### R2D77 - July 07, 2023
+Today, I worked on hosterr challenge. Watched videos from Jonas' course on animations & keyframes. Used javascript.info for javascript revision.
+
+### R2D78 - July 08, 2023
+Today, I cover few topics on FCC javascript course. Worked on hoster layout. Today, I coded for 1 hour 30 minutes.
