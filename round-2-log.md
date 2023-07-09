@@ -240,3 +240,6 @@ Today, I worked on hosterr challenge. Watched videos from Jonas' course on anima
 
 ### R2D78 - July 08, 2023
 Today, I cover few topics on FCC javascript course. Worked on hoster layout. Today, I coded for 1 hour 30 minutes.
+
+### R2D79 - July 09, 2023
+Today, I revised how animation & keyframes works, javascript.info article about callbacks & asynchronous javascript topics. Today, I coded for 48 minutes.
