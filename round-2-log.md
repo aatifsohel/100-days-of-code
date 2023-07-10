@@ -243,3 +243,6 @@ Today, I cover few topics on FCC javascript course. Worked on hoster layout. Tod
 
 ### R2D79 - July 09, 2023
 Today, I revised how animation & keyframes works, javascript.info article about callbacks & asynchronous javascript topics. Today, I coded for 48 minutes.
+
+### R2D80 - July 10, 2023
+Today, I tried to solve codewell.cc challenge. I wasn't able to layout it using CSS. I went to YT and watched video there. I coded for 1 hour.
