@@ -246,3 +246,15 @@ Today, I revised how animation & keyframes works, javascript.info article about 
 
 ### R2D80 - July 10, 2023
 Today, I tried to solve codewell.cc challenge. I wasn't able to layout it using CSS. I went to YT and watched video there. I coded for 1 hour.
+
+### R2D81 - July 11, 2023
+Today, I practiced javascript functions & css sectioning. I coded for 1 hour.
+
+### R2D82 - July 12, 2023
+Today, I revisited Jonas javascript course to understand MVC architecture. Started forkify app (doing myself). I coded for 40 mins.
+
+### R2D83 - July 13, 2023
+Today, I worked on forkify app and solved freecodecamp javascript topics. I coded for 1 hour
+
+### R2D84 - July 14, 2023
+Today, I did some CSS animations & responsive layout practice. I completed few FCC javascript topics. I coded for 1 hour.
