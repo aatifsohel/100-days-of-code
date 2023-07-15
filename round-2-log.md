@@ -258,3 +258,6 @@ Today, I worked on forkify app and solved freecodecamp javascript topics. I code
 
 ### R2D84 - July 14, 2023
 Today, I did some CSS animations & responsive layout practice. I completed few FCC javascript topics. I coded for 1 hour.
+
+### R2D85 - July 15, 2023
+Today, I covered few topics on FCC Javascript course. I solved simple challenges on jschallenger. I coded for 1 hour.
