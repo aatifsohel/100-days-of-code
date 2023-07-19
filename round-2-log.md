@@ -261,3 +261,12 @@ Today, I did some CSS animations & responsive layout practice. I completed few F
 
 ### R2D85 - July 15, 2023
 Today, I covered few topics on FCC Javascript course. I solved simple challenges on jschallenger. I coded for 1 hour.
+
+### R2D86 - July 17, 2023
+Today, I worked on forkify project. Solved challenges on quiz websites for JS. I will revise OOP concepts tomorrow. I coded for 1 hour.
+
+### R2D87 - July 18, 2023
+Today, I re-watched OOP concepts from Jonas course. Watched some YT videos and solve basic challenge on jschallenger website. I coded for 1 hour
+
+### R2D88 - July 19, 2023
+Today, I worked on Natours project to understand HOW things work actually. Because I think I forgot SASS and implementations. I coded for 1 hour.
