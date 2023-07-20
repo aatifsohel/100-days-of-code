@@ -270,3 +270,6 @@ Today, I re-watched OOP concepts from Jonas course. Watched some YT videos and s
 
 ### R2D88 - July 19, 2023
 Today, I worked on Natours project to understand HOW things work actually. Because I think I forgot SASS and implementations. I coded for 1 hour.
+
+### R2D89 - July 20, 2023
+Today, I worked on forkify app project. Covered rendering recipe and show loading spinner. I coded for 1 hour.
