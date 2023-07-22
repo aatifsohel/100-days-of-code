@@ -273,3 +273,9 @@ Today, I worked on Natours project to understand HOW things work actually. Becau
 
 ### R2D89 - July 20, 2023
 Today, I worked on forkify app project. Covered rendering recipe and show loading spinner. I coded for 1 hour.
+
+### R2D90 - July 21, 2023
+Today, I worked on Natours project to revise my CSS skills. I coded for 1 hour.
+
+### R2D91 - July 22, 2023
+Today, I worked on natours project. Revised some concepts. Pushed code to github. I coded for 1 hour.
