@@ -279,3 +279,9 @@ Today, I worked on Natours project to revise my CSS skills. I coded for 1 hour.
 
 ### R2D91 - July 22, 2023
 Today, I worked on natours project. Revised some concepts. Pushed code to github. I coded for 1 hour.
+
+### R2D92 - July 23, 2023
+Today, I worked on both Natours project and forkify app. Revised Sass. I coded for 1 hour.
+
+### R2D93 - July 24, 2023 
+Today, I worked on Natours project to improve my CSS skill. I coded for an hour. 
